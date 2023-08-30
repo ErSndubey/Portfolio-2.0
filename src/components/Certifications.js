@@ -16,14 +16,16 @@ const Certifications = () => {
         <div className="flex flex-wrap m-4">
           {certifications.map((certification) => (
             <div className="p-4 md:w-1/3 w-full" key={certification.id}>
-              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+              <div className="h-full bg-gray-800 bg-opacity-40 p-5 rounded">
                 <AcademicCapIcon className="block w-8 text-gray-500 mb-4" />
                 <div className="mb-6">
+                  <a target="_blank" href={certification.verificationLink}>
                   <img
                     alt="certificate"
                     src={certification.link}
                     className="w-80 mx-auto"
                   />
+                  </a>
                 </div>
                 <div className="inline-flex items-center">
                   <span className="flex-grow flex flex-col pl-4">

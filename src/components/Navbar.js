@@ -26,10 +26,10 @@ const Navbar = () => {
         </nav>
         <div className="inline-flex items-center text-center">
           <ul className="flex">
-            <a href="https://www.linkedin.com/in/ersndubey/">
+            <a target="_blank" href="https://www.linkedin.com/in/ersndubey/">
             <li className="w-8 mx-2"><img src={LinkedinIcon} alt="linkedinIcon"/></li>
             </a>
-            <a href="https://github.com/ErSndubey">
+            <a target="_blank" href="https://github.com/ErSndubey">
             <li><img className="w-8" src={GithubIcon} alt="githubIcon"/></li>
             </a>
           </ul>

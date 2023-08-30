@@ -1,10 +1,11 @@
 import React from "react";
 import dev from "../Images/dev.png"
 
+
 const About = ()=> {
   return (
     <section id="about">
-      <div className="container mx-auto flex justi px-10 py-20 md:flex-row flex-col items-center">
+      <div className="container mx-auto flex justify px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font text-4xl lg:text-6xl mb-4 font-medium">
            <span className="text-red-600">Hi,</span> <span className="text-white">I'm Sachchidanand.</span> 
@@ -24,10 +25,11 @@ const About = ()=> {
               className="inline-flex text-white bg-green-500 border-0  py-2 px-3 md:px-6 focus:outline-none hover:bg-green-600 rounded text-md md:text-lg">
               Work With Me
             </a>
-            <a
-              href="#projects"
+            
+            <a target="_blank"
+              href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FErSndubey%2FPortfolio-2.0%2Fmaster%2FResume.docx&wdOrigin=BROWSELINK"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-3 md:px-6  focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md md:text-lg">
-              See My Past Work
+              Download Resume
             </a>
           </div>
 

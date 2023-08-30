@@ -75,19 +75,22 @@ export const certifications = [
     id: 1,
     title: "React Developer Certification",
     organization: "UpGrade",
-    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png"
+    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
+    verificationLink:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
   },
   {
     id: 2,
     title: "JavaScript Fundamentals",
     organization: "Code Masters",
-    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png"
+    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
+    verificationLink:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
   },
   {
     id: 3,
     title: "JavaScript Fundamentals",
     organization: "Code Masters",
-    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png"
+    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
+    verificationLink:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
   },
   // Add more certification objects as needed
 ];
