@@ -75,8 +75,8 @@ export const certifications = [
     id: 1,
     title: "React Developer Certification",
     organization: "UpGrade",
-    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
-    verificationLink:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
+    link:"https://raw.githubusercontent.com/ErSndubey/Portfolio-2.0/master/src/Images/React_js_certificate.png",
+    verificationLink:"https://upgrad.verification.givemycertificate.com/v/1a8e4365-a5b2-4431-b85f-07a7f55d659b",
   },
   {
     id: 2,
