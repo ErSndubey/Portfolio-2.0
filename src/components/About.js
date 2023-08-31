@@ -27,7 +27,7 @@ const About = ()=> {
             </a>
             
             <a target="_blank"
-              href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FErSndubey%2FPortfolio-2.0%2Fmaster%2FResume.docx&wdOrigin=BROWSELINK"
+              href="https://docs.google.com/document/d/1Mglq-gMoLKHw3Se9vNoZZ2yRDX1m8TjYiVmBP27G-0k/edit?usp=drivesdk"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-3 md:px-6  focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md md:text-lg">
               Download Resume
             </a>
