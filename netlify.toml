@@ -1,3 +1,3 @@
 [build]
 command = "npm run build"
-publish = "build"  # Assuming Create React App's default build output directory is 'build'
+publish = "build"
