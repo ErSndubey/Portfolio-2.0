@@ -5,7 +5,7 @@ import { projects } from "../data";
 const  Projects =()=> {
   return (
     <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+      <div className="container px-1 py-10 mx-auto text-center lg:px-40 ">
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
@@ -15,19 +15,19 @@ const  Projects =()=> {
           Crafting captivating web experiences with cutting-edge technologies. Transforming ideas into interactive realities through innovative web applications.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4 ">
+        <div className="flex flex-col lg:flex lg:flex-row flex-wrap gap-10">
           {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4 mb-20">
+              className="sm:w-full lg:w-1/2 w-100 lg:p-4 mb-20">
               <div className="flex relative">
                 <img
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 w-max h-max  object-cover object-center  rounded-lg"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative  w-full max-h-screen  border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
+                <div className="px-8 py-16 lg:py-10 relative  w-full min-h-fit  border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>

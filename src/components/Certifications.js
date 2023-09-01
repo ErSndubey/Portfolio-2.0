@@ -5,7 +5,7 @@ import { certifications } from "../data"; // Assuming you have a certifications 
 const Certifications = () => {
   return (
     <section id="certifications">
-      <div className="container px-5 py-10 mx-auto text-center">
+      <div className="container  px-5 py-10 mx-auto text-center">
         <AcademicCapIcon className="w-10 inline-block mb-4" />
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
           Certifications
@@ -13,17 +13,17 @@ const Certifications = () => {
         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
         Certified in advanced web development techniques, backed by reputable institutions. Validating expertise through industry-recognized certifications.
           </p>
-        <div className="flex flex-wrap m-4">
+        <div className="flex flex-col lg:flex lg:flex-row flex-wrap m-4">
           {certifications.map((certification) => (
-            <div className="p-4 md:w-1/3 w-full" key={certification.id}>
-              <div className="h-full bg-gray-800 bg-opacity-40 p-5 rounded">
+            <div className="p-4  lg:w-1/3 w-full" key={certification.id}>
+              <div className="h-full bg-gray-700 bg-opacity-40 p-10 rounded">
                 <AcademicCapIcon className="block w-8 text-gray-500 mb-4" />
                 <div className="mb-6">
                   <a target="_blank" href={certification.verificationLink}>
                   <img
                     alt="certificate"
                     src={certification.link}
-                    className="w-80 mx-auto"
+                    className="w-full lg:w-80 mx-auto"
                   />
                   </a>
                 </div>
