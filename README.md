@@ -1,7 +1,7 @@
 <!-- Portfolio Logo and Website Link -->
 <p align="center">
   <a href="https://portfolio-ersndubey.vercel.app/">
-    <img src="https://github.com/ErSndubey/Portfolio-2.0/blob/master/src/Images/sdLogo.png" alt="Portfolio Logo" width="200">
+    <img src="https://github.com/ErSndubey/Portfolio-2.0/blob/master/src/Images/sdLogo.webp" alt="Portfolio Logo" width="200">
   </a>
   <br>
   <a href="https://portfolio-ersndubey.vercel.app/">Visit My Portfolio</a>
