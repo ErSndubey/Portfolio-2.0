@@ -15,7 +15,7 @@ const  Projects =()=> {
           Crafting captivating web experiences with cutting-edge technologies. Transforming ideas into interactive realities through innovative web applications.
           </p>
         </div>
-        <div className="flex flex-col lg:flex lg:flex-row flex-wrap gap-10">
+        <div className="flex flex-col lg:flex lg:flex-row flex-wrap gap-10 lg:gap-0">
           {projects.map((project) => (
             <a
               href={project.link}
