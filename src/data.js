@@ -18,7 +18,7 @@ export const projects = [
     description:
       "A React and Tailwind CSS-based web app, emulating the renowned Quora platform. Leveraging the Quora API, this clone offers seamless access to user information and question-answer interactions. Tailored for college students, it brings a familiar yet focused Q&A experience. Witness my UI proficiency and API integration in action.",
     image: PI2,
-    link: "https://reedbarger.com",
+    link: "https://quora4collage.vercel.app/index.html",
   },
   {
     title: "Tasker: TO-DO App",
@@ -26,7 +26,7 @@ export const projects = [
     description:
       "Presenting DOTO: Masterful Task Management Redefined! Developed using HTML, CSS, and JavaScript, amplified by Bootstrap for that sleek touch. Seamlessly add tasks, embellish them with descriptions and priorities. And the pièce de résistance? Your tasks are invincible—thanks to local storage wizardry, they persist through refreshes and shutdowns. Witness my skill in action, as I bring productivity to a new horizon",
     image: PI3,
-    link: "https://jsbootcamp.com",
+    link: "https://tasker-ersndubey.vercel.app/",
   },
   {
     title: "Portfolio 1.0",
@@ -34,7 +34,7 @@ export const projects = [
     description:
       "Journey into My Web Universe: Explore my previous portfolio website, a creation fashioned with the trio of HTML, CSS, and JavaScript, elevated with the magic of Pure CSS. Traverse the interactive landscape, where design meets functionality. Immerse yourself in my earlier web prowess, witnessing the fusion of code and creativity that defines my digital footprint",
     image: PI4,
-    link: "https://pythonbootcamp.com",
+    link: "https://ersndubey.github.io/",
   },
 ];
 
@@ -82,7 +82,7 @@ export const certifications = [
     id: 2,
     title: "React Developer Certification",
     organization: "UpGrade",
-    link:"https://raw.githubusercontent.com/ErSndubey/Portfolio-2.0/master/src/Images/React_js_certificate.png",
+    link:"https://us-central1-gmc-testing.cloudfunctions.net/certificateImage/v1/certificate/1a8e4365-a5b2-4431-b85f-07a7f55d659b?size=small",
     verificationLink:"https://upgrad.verification.givemycertificate.com/v/1a8e4365-a5b2-4431-b85f-07a7f55d659b",
   },
   {
