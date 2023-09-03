@@ -1,8 +1,8 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
-import ICON from "../Images/sdLogo.png";
+import ICON from "../Images/sdLogo.webp";
 import React from "react";
-import LinkedinIcon from "../Images/linkedin.png"
-import GithubIcon from "../Images/github.png"
+import LinkedinIcon from "../Images/linkedin.webp"
+import GithubIcon from "../Images/github.webp"
 
 const Navbar = () => {
   return (

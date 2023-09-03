@@ -1,7 +1,7 @@
-import PI1 from "./Images/foodies.jpeg"
-import PI2 from "./Images/Quora4College.png"
-import PI3 from "./Images/toDoApp.jpeg"
-import PI4 from "./Images/oldPortfolio.png"
+import PI1 from "./Images/foodies.webp"
+import PI2 from "./Images/Quora4College.webp"
+import PI3 from "./Images/toDoApp.webp"
+import PI4 from "./Images/oldPortfolio.webp"
 
 export const projects = [
   {

@@ -1,5 +1,5 @@
 import React from "react";
-import dev from "../Images/dev.png"
+import dev from "../Images/dev.webp"
 
 
 const About = ()=> {
