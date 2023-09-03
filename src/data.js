@@ -73,24 +73,25 @@ export const skills = [
 export const certifications = [
   {
     id: 1,
+    title: "Master the Node.js Fundamentals",
+    organization: "Scaler",
+    link:"https://moonshot.scaler.com/s/image/sl/zpfRNxTW7H?scope=body",
+    verificationLink:"https://moonshot.scaler.com/s/sl/zpfRNxTW7H?_gl=1*1r0es0t*_ga*MTQ3NTk4MDI2Mi4xNjkzMjQxMDk5*_ga_53S71ZZG1X*MTY5MzY3MDY1MC43LjAuMTY5MzY3MDY1MC4wLjAuMA..",
+  },
+  {
+    id: 2,
     title: "React Developer Certification",
     organization: "UpGrade",
     link:"https://raw.githubusercontent.com/ErSndubey/Portfolio-2.0/master/src/Images/React_js_certificate.png",
     verificationLink:"https://upgrad.verification.givemycertificate.com/v/1a8e4365-a5b2-4431-b85f-07a7f55d659b",
   },
   {
-    id: 2,
+    id: 3,
     title: "javascript Essential Training",
     organization: "Linkedin",
     link:"https://media.licdn.com/dms/image/D4D22AQEE450qY2O-2w/feedshare-shrink_1280/0/1693592915993?e=1696464000&v=beta&t=9KXWOvbMMYI9tumTuL4_ZOrQWZvMenuxPwZoiNaoeME",
     verificationLink:"https://www.linkedin.com/learning/certificates/28c7335fb260cafb99c838c5302584cdf9d4239cf78792d7e3dda8aecee19ef3",
   },
-  {
-    id: 3,
-    title: "JavaScript Fundamentals",
-    organization: "Meta",
-    link:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
-    verificationLink:"https://user-images.githubusercontent.com/97537360/210835013-1fd69faa-cd0b-4099-8051-6f4902df0885.png",
-  },
+ 
   // Add more certification objects as needed
 ];
