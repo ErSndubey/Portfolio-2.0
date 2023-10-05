@@ -89,7 +89,7 @@ export const certifications = [
     id: 3,
     title: "javascript Essential Training",
     organization: "Linkedin",
-    link:"https://media.licdn.com/dms/image/D4D22AQEE450qY2O-2w/feedshare-shrink_1280/0/1693592915993?e=1696464000&v=beta&t=9KXWOvbMMYI9tumTuL4_ZOrQWZvMenuxPwZoiNaoeME",
+    link:"https://media.licdn.com/dms/image/D4D22AQEE450qY2O-2w/feedshare-shrink_800/0/1693592915993?e=1699488000&v=beta&t=4oF7LyivR1TC9gFHxail9wz0ChinYvnimpi0NBDr59U",
     verificationLink:"https://www.linkedin.com/learning/certificates/28c7335fb260cafb99c838c5302584cdf9d4239cf78792d7e3dda8aecee19ef3",
   },
  
