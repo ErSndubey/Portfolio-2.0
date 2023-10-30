@@ -84,7 +84,7 @@ export const skills = [
     skillName : "Jest",
     skillImgURL : "https://docs.knapsackpro.com/images/blog/posts/run-jest-on-github-actions-with-parallelization/jest.png",
     certification: "True",
-    certificationText : "{ Google Certified }",
+    certificationText : "{ Meta Certified }",
     certificateLink : "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/images/de1a6556fbe605411e8c1c2ca4ba45f1.png?auto=format%2Ccompress&dpr=1&w=333&h=215&q=40"
   },
   {
@@ -129,17 +129,17 @@ export const skills = [
 export const certifications = [
   {
     id: 1,
-    title: "Master the Node.js Fundamentals",
-    organization: "Scaler",
-    link:"https://moonshot.scaler.com/s/image/sl/zpfRNxTW7H?scope=body",
-    verificationLink:"https://moonshot.scaler.com/s/sl/zpfRNxTW7H?_gl=1*1r0es0t*_ga*MTQ3NTk4MDI2Mi4xNjkzMjQxMDk5*_ga_53S71ZZG1X*MTY5MzY3MDY1MC43LjAuMTY5MzY3MDY1MC4wLjAuMA..",
+    title: "Advance react Js",
+    organization: "Meta [Facebook]",
+    link:"https://media.licdn.com/dms/image/D4D22AQF3xeA7euqS3Q/feedshare-shrink_1280/0/1698641524752?e=1701302400&v=beta&t=ufKAsFffknGaQ5q9ajzIvpL-QwJkAdle7kX4r8x1VsY",
+    verificationLink:"https://www.coursera.org/account/accomplishments/verify/QTSBKACCUJ5T",
   },
   {
     id: 2,
-    title: "React Developer Certification",
+    title: "Programming with JavaScript",
     organization: "UpGrade",
-    link:"https://us-central1-gmc-testing.cloudfunctions.net/certificateImage/v1/certificate/1a8e4365-a5b2-4431-b85f-07a7f55d659b?size=small",
-    verificationLink:"https://upgrad.verification.givemycertificate.com/v/1a8e4365-a5b2-4431-b85f-07a7f55d659b",
+    link:"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2DF938STQELS/CERTIFICATE_LANDING_PAGE~2DF938STQELS.jpeg",
+    verificationLink:"https://www.coursera.org/account/accomplishments/verify/2DF938STQELS",
   },
   {
     id: 3,
