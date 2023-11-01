@@ -42,7 +42,7 @@ const About = () => {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded-md"
             alt="hero"
 
             src={dev}
