@@ -16,12 +16,12 @@ const About = () => {
             <path strokeLinecap="round" strokeLinejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"></path>
           </svg></span> to build amazing
             <span className="text-red-600 mx-2"> apps.</span></h1>
-          <p className="mb-8 leading-snug lg:leading-relaxed text-3xl lg:text-xl text-white ">
+          <p className="mb-8 leading-snug lg:leading-relaxed text-2xl lg:text-xl text-white text-justify">
 
             <lu>
-              <ul>➡️  I am a Computer Science graduate and I love working on front end web development projects.</ul>
-                <ul>➡️  I have developed 3 real world websites till now that are currently being used by the people all over India.</ul>
-              <ul>➡️  I am a ⭐⭐⭐⭐ Python and a ⭐⭐⭐ Java coder at HackerRank.</ul> 
+              <ul>➡️  I am a 🎓 Computer Science graduate with a deep enthusiasm for front-end web development projects.</ul>
+                <ul>➡️  I have developed three real-world websites 🌐, currently serving users all across India.</ul>
+              <ul>➡️  I proudly hold a ⭐⭐⭐⭐ rating as a Python 🐍 coder and a ⭐⭐⭐ rated Java ☕ coder on HackerRank.</ul> 
             </lu>
             {/*  "Empowering my projects with the latest technologies and tools, I craft solutions that go beyond expectations. By embracing emerging trends, I guarantee top-tier quality and client satisfaction. My approach merges innovation with efficiency, resulting in impactful outcomes. Attuned to user preferences, I design solutions that truly resonate." */}
           </p>
@@ -32,7 +32,7 @@ const About = () => {
               Work With Me
             </a>
 
-            <a target="_blank"
+            <a target="_blank" rel="noreferrer"
               href="https://docs.google.com/document/d/1d-xD_k0uNgbUDlSEd9BRsix1rW7fT79YVnZ5iEwQii0/edit?usp=sharing"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-3 md:px-6  focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md md:text-lg">
               Download Resume
@@ -40,9 +40,9 @@ const About = () => {
           </div>
 
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/6">
+        <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/6  ">
           <img
-            className="object-cover object-center rounded-md"
+            className="object-cover object-center rounded-lg "
             alt="hero"
 
             src={dev}
