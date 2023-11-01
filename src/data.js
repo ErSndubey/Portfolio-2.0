@@ -136,17 +136,17 @@ export const certifications = [
   },
   {
     id: 2,
-    title: "Programming with JavaScript",
-    organization: "UpGrade",
-    link:"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2DF938STQELS/CERTIFICATE_LANDING_PAGE~2DF938STQELS.jpeg",
-    verificationLink:"https://www.coursera.org/account/accomplishments/verify/2DF938STQELS",
+    title: "Course on Python",
+    organization: "Google",
+    link:"https://media.licdn.com/dms/image/D4D22AQGCJtVUvR_oZw/feedshare-shrink_800/0/1698836334142?e=1701907200&v=beta&t=vyjcKWDMFH2ELX3_OExTzvl_hFBmCYCNONu_XmU3uPc",
+    verificationLink:"https://www.coursera.org/account/accomplishments/verify/7TBXKNXERPAW",
   },
   {
     id: 3,
-    title: "javascript Essential Training",
-    organization: "Linkedin",
-    link:"https://media.licdn.com/dms/image/D4D22AQEE450qY2O-2w/feedshare-shrink_800/0/1693592915993?e=1699488000&v=beta&t=4oF7LyivR1TC9gFHxail9wz0ChinYvnimpi0NBDr59U",
-    verificationLink:"https://www.linkedin.com/learning/certificates/28c7335fb260cafb99c838c5302584cdf9d4239cf78792d7e3dda8aecee19ef3",
+    title: "Programming with JavaScript",
+    organization: "Meta [Facebook]",
+    link:"https://media.licdn.com/dms/image/D4D22AQGrKtTl75CucQ/feedshare-shrink_800/0/1698754657742?e=1701907200&v=beta&t=Yae6iAa2dtxBocWAbgpdbDP4EaL9LvRwfNfND2fJw_E",
+    verificationLink:"https://www.coursera.org/account/accomplishments/verify/2DF938STQELS",
   },
  
   // Add more certification objects as needed
