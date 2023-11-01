@@ -136,8 +136,8 @@ export const certifications = [
   },
   {
     id: 2,
-    title: "javascript Essential Training",
-    organization: "Linkedin",
+    title: "Course on Python",
+    organization: "Google",
     link:"https://media.licdn.com/dms/image/D4D22AQGCJtVUvR_oZw/feedshare-shrink_800/0/1698836334142?e=1701907200&v=beta&t=vyjcKWDMFH2ELX3_OExTzvl_hFBmCYCNONu_XmU3uPc",
     verificationLink:"https://www.coursera.org/account/accomplishments/verify/7TBXKNXERPAW",
   },
