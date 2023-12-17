@@ -33,7 +33,7 @@ const About = () => {
             </a>
 
             <a target="_blank" rel="noreferrer"
-              href="https://docs.google.com/document/d/1d-xD_k0uNgbUDlSEd9BRsix1rW7fT79YVnZ5iEwQii0/edit?usp=sharing"
+              href="https://www.canva.com/design/DAF3NgRuq4k/83HnF_lLWc1qToXGmVn_Uw/view?utm_content=DAF3NgRuq4k&utm_campaign=designshare&utm_medium=link&utm_source=editor"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-3 md:px-6  focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md md:text-lg">
               Download Resume
             </a>
